@@ -1,0 +1,2 @@
+python "bitmaptostring.py" %*
+pause
